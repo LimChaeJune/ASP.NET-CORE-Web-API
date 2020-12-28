@@ -1,7 +1,7 @@
 ASP.NET CORE로 API 제작하기
 ======
 ## 개요
-  ASP.NET Core로 웹 API를 빌드하는 과정을 설명합니다.
+  ASP.NET Core로 웹 API를 빌드하는 과정을 설명합니다.  
   해당 예제는 visual Studio 2019으로 진행됩니다.
 ## 시작하기
   1. ASP.NET CORE 프로젝트 생성
