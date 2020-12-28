@@ -19,8 +19,8 @@ ASP.NET CORE로 API 제작하기
   |DELETE /api/TodoItems/{id}|항목 삭제|없음|없음|
   
   ### 1. ASP.NET CORE 프로젝트 생성
-  * 비주얼 스튜디오에서 새로 만들기 > 새 프로젝트
-  
+  * 비주얼 스튜디오에서 새로 만들기 > 새 프로젝트  
+  ![생성](https://github.com/LimChaeJune/ASP.NET-CORE-Web-API/blob/master/1.png)
   
   
   
