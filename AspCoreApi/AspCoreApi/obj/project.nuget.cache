@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7X6uEh8cGtbnz2QzQpN/CjAim6sPR178HPlN4nI6OWLT7+kx5GpUzC1cg88aHuAE+OFxIPRWe7FktmQk9FB2Cw==",
+  "dgSpecHash": "hOdviP5jNIyPiIk5wdqV0hbvm54/8CdFH8oOxUfFH7p0MDdmcVHA80j69MdzWeAu3hWrObaWVgjgBsADAdNnbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cowns\\source\\repos\\AspCoreApi\\AspCoreApi\\AspCoreApi.csproj",
+  "projectFilePath": "C:\\OpenSource\\AspNetAPI\\AspCoreApi\\AspCoreApi\\AspCoreApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cowns\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\cowns\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

@@ -8877,11 +8877,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cowns\\source\\repos\\AspCoreApi\\AspCoreApi\\AspCoreApi.csproj",
+      "projectUniqueName": "C:\\OpenSource\\AspNetAPI\\AspCoreApi\\AspCoreApi\\AspCoreApi.csproj",
       "projectName": "AspCoreApi",
-      "projectPath": "C:\\Users\\cowns\\source\\repos\\AspCoreApi\\AspCoreApi\\AspCoreApi.csproj",
+      "projectPath": "C:\\OpenSource\\AspNetAPI\\AspCoreApi\\AspCoreApi\\AspCoreApi.csproj",
       "packagesPath": "C:\\Users\\cowns\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cowns\\source\\repos\\AspCoreApi\\AspCoreApi\\obj\\",
+      "outputPath": "C:\\OpenSource\\AspNetAPI\\AspCoreApi\\AspCoreApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
