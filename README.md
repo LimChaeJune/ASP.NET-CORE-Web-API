@@ -269,7 +269,7 @@ PostMan을 사용하여 위에 생성한 웹 API를 테스트합니다.
 
   #### 6.1 Post TodoItem
   - HTTP 메서드를 POST로 변경  
-  - URI 설정 http://localhost:<port>/api/TodoItems (포트 번호는 프로젝트의 Properties/launchSetting.json 파일의 iisSettings속성에서 확인할 수 있습니다.)
+  - URI 설정 http://localhost:포트번호/api/TodoItems (포트 번호는 프로젝트의 Properties/launchSetting.json 파일의 iisSettings속성에서 확인할 수 있습니다.)
   - **Body** 탭 선택 
   - **raw** 라디오 버튼 선택
   - **JSON**으로 유형 변경 
@@ -284,7 +284,7 @@ PostMan을 사용하여 위에 생성한 웹 API를 테스트합니다.
   - **Send** 클릭 
   
   위에 단계를 수행하면 아래와 같은 결과를 보여줍니다. 
-  [4](https://github.com/LimChaeJune/ASP.NET-CORE-Web-API/blob/master/4.png)
+  ![4](https://github.com/LimChaeJune/ASP.NET-CORE-Web-API/blob/master/4.png)
   
   
   
