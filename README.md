@@ -284,7 +284,7 @@ PostMan을 사용하여 위에 생성한 웹 API를 테스트합니다.
   - **Send** 클릭 
   
   위에 단계를 수행하면 아래와 같은 결과를 보여줍니다. 
-  ![4](https://github.com/LimChaeJune/ASP.NET-CORE-Web-API/blob/master/images/1.png)
+  ![1](https://github.com/LimChaeJune/ASP.NET-CORE-Web-API/blob/main/images/1.png)
   
   
   
